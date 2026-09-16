@@ -23,7 +23,6 @@
 - [wdk-protocol-swap-velora-evm](https://github.com/tetherto/wdk-protocol-swap-velora-evm)
 - [wdk-react-native-core](https://github.com/tetherto/wdk-react-native-core)
 - [wdk-react-native-secure-storage](https://github.com/tetherto/wdk-react-native-secure-storage)
-- [wdk-secret-manager](https://github.com/tetherto/wdk-secret-manager)
 - [wdk-signer-local](https://github.com/tetherto/wdk-signer-local)
 - [wdk-starter-kotlin](https://github.com/tetherto/wdk-starter-kotlin)
 - [wdk-starter-react-native](https://github.com/tetherto/wdk-starter-react-native)
