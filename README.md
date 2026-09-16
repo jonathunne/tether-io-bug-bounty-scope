@@ -7,7 +7,6 @@
 - [wdk-asset-registry](https://github.com/tetherto/wdk-asset-registry)
 - [wdk-backup-cloud-react-native](https://github.com/tetherto/wdk-backup-cloud-react-native)
 - [wdk-cli](https://github.com/tetherto/wdk-cli)
-- [wdk-examples](https://github.com/tetherto/wdk-examples)
 - [wdk-core-kotlin](https://github.com/tetherto/wdk-core-kotlin)
 - [wdk-core-swift](https://github.com/tetherto/wdk-core-swift)
 - [wdk-failover-provider](https://github.com/tetherto/wdk-failover-provider)
