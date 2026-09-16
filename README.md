@@ -13,7 +13,6 @@
 - [wdk-core-swift](https://github.com/tetherto/wdk-core-swift)
 - [wdk-failover-provider](https://github.com/tetherto/wdk-failover-provider)
 - [wdk-mcp-toolkit](https://github.com/tetherto/wdk-mcp-toolkit)
-- [wdk-playground](https://github.com/tetherto/wdk-playground)
 - [wdk-pricing-bitfinex-http](https://github.com/tetherto/wdk-pricing-bitfinex-http)
 - [wdk-pricing-provider](https://github.com/tetherto/wdk-pricing-provider)
 - [wdk-protocol-bridge-usdt0-evm](https://github.com/tetherto/wdk-protocol-bridge-usdt0-evm)
