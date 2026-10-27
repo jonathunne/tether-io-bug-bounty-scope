@@ -21,7 +21,6 @@
 - [wdk-starter-kotlin](https://github.com/tetherto/wdk-starter-kotlin)
 - [wdk-starter-react-native](https://github.com/tetherto/wdk-starter-react-native)
 - [wdk-starter-swift](https://github.com/tetherto/wdk-starter-swift)
-- [wdk-uikit-react-native](https://github.com/tetherto/wdk-uikit-react-native)
 - [wdk-utils](https://github.com/tetherto/wdk-utils)
 - [wdk-wallet](https://github.com/tetherto/wdk-wallet)
 - [wdk-wallet-btc](https://github.com/tetherto/wdk-wallet-btc)
